@@ -43,3 +43,6 @@ Functionality of Different Functions:
 •	Closes the graphics mode and deallocates memory associated with the graphics system.
 
 These functions collectively create an animation of a car moving along a road at night, with stars twinkling in the sky and a full moon shining overhead.
+
+![NightCar](https://github.com/user-attachments/assets/b6bf4e43-2b3c-4d94-a114-2a71fde164a3)
+
